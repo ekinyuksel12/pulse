@@ -1,0 +1,15 @@
+.env
+__pycache__/
+*.pyc
+.pytest_cache/
+dist/
+build/
+*.egg-info/
+github_pulse.md
+linkedin_pulse.md
+*.deb
+*.exe
+.pulse/
+.vscode/
+.idea/
+*.log

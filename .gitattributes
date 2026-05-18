@@ -1,0 +1,11 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+
+# Standardize line endings to LF for scripts
+*.sh text eol=lf
+*.py text eol=lf
+*.md text eol=lf
+
+# Explicitly mark binaries
+*.deb binary
+*.exe binary
