@@ -5,7 +5,8 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
 
-**Pulse** is a modular data extraction suite. It unifies your professional footprint from GitHub, LinkedIn, and more into structured Markdown, optimized for LLM context ingestion, personal portfolios, and digital archival.
+**Pulse** is a modular data extraction tool. It unifies your professional footprint from GitHub, LinkedIn, and more into structured Markdown, optimized for LLM context, personal portfolios, and digital archival.
+
 
 Whether you need to feed your technical history into a custom GPT, audit a developer portfolio, or build an OSINT professional profile, Pulse provides a reliable and developer-friendly pipeline.
 
