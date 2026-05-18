@@ -113,5 +113,5 @@ class GitHubPlatform(BasePlatform):
             md += f"- **Languages:** {', '.join(repo.languages.keys())}\n"
             md += f"- **README Snippet:**\n\n```markdown\n{repo.readme_snippet}\n```\n\n"
         
-        md += "---\n*Extracted via [Pulse](https://github.com/ekinyuksel12/pulse)* 🛰️\n"
+        md += "---\n*Extracted with Pulse*\n"
         return md

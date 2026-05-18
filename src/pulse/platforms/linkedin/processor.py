@@ -75,5 +75,5 @@ class LinkedInPlatform(BasePlatform):
         for post in data.posts:
             md += f"- {post.content}\n\n----- \n\n"
         
-        md += "---\n*Extracted via [Pulse](https://github.com/ekinyuksel12/pulse)* 👣\n"
+        md += "---\n*Extracted with Pulse*\n"
         return md
